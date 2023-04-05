@@ -78,3 +78,4 @@ Articles:
 OpenSource contributions:
 - https://github.com/samber/lo - optimized some methods for slices.
 - https://github.com/edoardottt/cariddi - initiated writing tests for the project. Added tests for a utils package, fixed usage of some deprecated methods.
+- https://github.com/twharmon/slices - improved performance and reduced memory allocations for bunch of methods

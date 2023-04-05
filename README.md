@@ -1,14 +1,4 @@
-## CV
-
 > Actual on April 2023
-
-Have bachelor's degree in Mechanic and Mathematical modeling.  
-Commertial expecience in years(4.5 in total):
-- Golang - 2
-- PostgreSQL - 1.5
-- PHP 7 - 3
-- MySQL - 3
-
 
 ## Experience
 
@@ -67,6 +57,14 @@ Dec 2018 - Mar 2019 · 4 mos
 
 Worked in team responsible for Intel Parallel Studio installer.
 
+
+## Education
+
+**State University of Nizhni Novgorod** named after N.I. Lobachevsky (UNN)  
+2014 - 2018
+
+Bachelor's degree, Mechanic and Mathematical modeling
+
 ## Other
 
 Projects:
@@ -79,3 +77,4 @@ Articles:
 
 OpenSource contributions:
 - https://github.com/samber/lo - optimized some methods for slices.
+- https://github.com/edoardottt/cariddi - initiated writing tests for the project. Added tests for a utils package, fixed usage of some deprecated methods.

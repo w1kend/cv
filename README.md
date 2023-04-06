@@ -1,5 +1,3 @@
-> Actual on April 2023
-
 ## Experience
 
 **OZON BANK** Golang developer, remotly.  
@@ -68,14 +66,17 @@ Bachelor's degree, Mechanic and Mathematical modeling
 ## Other
 
 Projects:
+
 - Golang's hashmap implementation using generics. A source code for my articles which describe hashmap implementation under the hood in Go. https://github.com/w1kend/go-map
 
 Articles:
+
 - Golang's hashmap implementation. part1 https://habr.com/ru/articles/704796/
 - Golang's hashmap implementation. part2 https://habr.com/ru/articles/717724/
 - Golang overview. https://sky.pro/media/chto-takoe-golang/
 
 OpenSource contributions:
+
 - https://github.com/samber/lo - optimized some methods for slices.
 - https://github.com/edoardottt/cariddi - initiated writing tests for the project. Added tests for a utils package, fixed usage of some deprecated methods.
 - https://github.com/twharmon/slices - improved performance and reduced memory allocations for bunch of methods
